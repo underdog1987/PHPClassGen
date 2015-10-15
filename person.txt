@@ -1,0 +1,5 @@
+classname:Person:final
+name|set|get
+id|get
+phone|get|set
+
